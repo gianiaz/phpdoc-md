@@ -21,7 +21,7 @@ Simply add:
 
     "require-dev" : {
 
-        "evert/phpdoc-md" : "~0.2.0"
+        "gianiaz/phpdoc-md" : "~0.3.0"
 
     }
 
@@ -59,3 +59,4 @@ This should generate all the .md files. I'm excited to hear your feedback.
 
 Cheers,
 [Evert](https://twitter.com/evertp)
+[gianiaz](https://twitter.com/gianiaz)
