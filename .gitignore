@@ -1,6 +1,7 @@
 vendor/
 composer.lock
 .*.swp
+.php_cs.cache
 
 # Binaries
 /bin/phpdoc

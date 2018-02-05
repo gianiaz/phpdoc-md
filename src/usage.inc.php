@@ -14,3 +14,6 @@ Options:
     --lt [template]
         This specifies the 'template' for links we're generating. By default
         this is "%c.md".
+
+    --tpldir [templateDir]
+        This specifies a different path for twig templates to load
